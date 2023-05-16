@@ -88,7 +88,7 @@
     transform: translate(-50%, -50%);
     border: 5px solid white;
     border-radius: 5px;
-    width: 750px;
+    /* width: 750px; */
     max-height: 95%;
     object-fit: cover;
 }
